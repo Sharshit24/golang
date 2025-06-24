@@ -14,6 +14,12 @@ Each folder contains a focused example:
 - **[4_constants](4_constants/main.go)**: Using constants in Go.
 - **[5_for](5_for/main.go)**: Loops, conditionals, and logical operators.
 - **[6_switch](6_switch/main.go)**: Switch statements and type switches.
+- **[7_functions](7_functions/main.go)**: Defining and using functions.
+- **[8_arrays_slices](8_arrays_slices/main.go)**: Working with arrays and slices.
+- **[9_maps](9_maps/main.go)**: Using maps (dictionaries) in Go.
+- **[10_structs](10_structs/main.go)**: Structs and basic object-oriented concepts.
+- **[11_interfaces](11_interfaces/main.go)**: Interfaces and polymorphism.
+- **[12_concurrency](12_concurrency/main.go)**: Goroutines and channels for concurrency.
 
 ---
 
@@ -41,6 +47,10 @@ Each folder contains a focused example:
 - Variables and constants
 - Loops and conditionals
 - Switch statements (including type switches)
+- Functions and error handling
+- Arrays, slices, and maps
+- Structs and interfaces
+- Concurrency with goroutines and channels
 - Simple Go syntax and idioms
 
 ---
